@@ -136,7 +136,7 @@ button {
 /* ============================= section 1 ============================== */
 
 .fs {
-    background-image: url('/img/town.jpg');
+    background-image: url('../img/town.jpg');
     background-size: cover;
     padding-top: 112px;
     padding-left: 16px;
@@ -217,7 +217,7 @@ button {
 /* ============================= section 2 ============================== */
 
 .ss {
-    background-image: url('/img/sea.jpg');
+    background-image: url('../img/sea.jpg');
     padding: 127px 87px 232px;
 }
 .ss-title {
